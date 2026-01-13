@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+
+.Edukasi_img {
+	left: 
+	align-content: center;	
+	width: 35%;
+}
+
+.Home_body_img {
+	position: absolute;
+	object-fit: 100%, cover;
+	repe
+}
+.header-logo{
+	float: left;
+	
+}
+
+.header-main {
+    position: fixed; 
+    top: 0; 
+    width: calc(100%); 
+    height: 75px; 
+    display: block; 
+    z-index: 1000; 
+	color: #100F0F;
+	background: #FFFFFF;
+	
+} 
+ 
+ 
+.header-main-nav {  
+	height: 100%; 
+} 
+ 
+.header-main-nav ul { 
+	margin-left: 30px 
+} 
+ 
+.header-main-nav li { 
+    display: inline; 
+    float: right;
+	
+} 
+
+.header-main-nav li a { 
+padding: 0 10px; 
+  font-family: "Henny Penny", system-ui;
+  font-weight: 300;
+  font-style: normal;
+line-height: cover;
+display:block;
+height: 100%;
+color: black;
+font-size: 1.5rem;
+}
+
+.header-main-nav li a:hover {
+    color: #4dbfd9;
+}
+
+.home-body {
+	margin-top: 50px;
+	padding-top: 100px;
+	background-image: url("image/Beasiswa.png");
+	background-repeat: no-repeat;
+	background-size: 100%, cover;
+}
+.body-h1{
+	
+}
+
+.about-main {
+	background-image: url("image/Beasiswa.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.about-p {
+	margin: 20px 20px 0px 20px;
+	padding: 50px 100px 50px 100px;
+	background-color: white;
+	justify-content: center;
+	align-content: center;
+	font-size: 1.2rem;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	border-radius: 100px 100px 0 0px;
+	flex-basis: 20%;
+	flex-wrap: wrap
+		
+}
+
+h1 {
+margin-top: 100px;	
+}
+
+.main-info {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.img-info-left {
+	padding-right: 75px;
+	transition: 1000ms;
+	border-right: 2px solid #ffffff;
+		
+}
+
+
+.img-info-middle {
+	padding: 0 75px;
+	transition: 1000ms;
+	
+}
+
+
+.img-info-right {
+	
+	padding-left: 75px;
+	border-left: 2px solid #ffffff;
+		transition: 1000ms;
+}
+
+
+.info-body{
+	background-image: url("../img//infobg.png");
+	background-size: 100%;
+	
+		
+		
+}
+
+.info-back{
+	background-color: #1a2d3b;
+		
+}
+
+
+.about-body {
+	margin-top: 50px;
+	padding-top: 100px;
+	background-image: url("../img/about-bg.png");
+	background-repeat: no-repeat;
+	background-size: 100%, cover;
+}
+
+.info-footer{
+	padding-right: 950px;
+	background: #1a2b3d;
+}
+
+.info-bawah{
+	padding-left: 950px;
+}
+
+
+.info-umjeil{
+	padding-left: 715px;
+    display: flex;
+    justify-content: center; 
+    
+} 
+
+
